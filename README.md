@@ -11,6 +11,12 @@
 ![Profile views](https://komarev.com/ghpvc/?username=LESdylan&color=blue)
 [![GitHub Follow](https://img.shields.io/github/followers/LESdylan?label=Follow%20Me&style=social)](https://github.com/your-username)
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
+![GitHub Streak](https://streak-stats.demolab.com/?user=LESdylan&theme=highcontrast)
+![3D Contribution Graph](https://github.com/LESdylan/LESdylan/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=LESdylan)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding!;Follow+me+for+cool+projects!)](https://git.io/typing-svg)
 
 
 ## 👨‍💻 About Me
