@@ -90,41 +90,16 @@ By meticulously examining code at the byte and cycle level, I transform function
     <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white"/>
   </p>
   
-  <!-- Specialized skills section -->
+  <!-- Specialized skills section with reliable badges instead of progress bars -->
   <h3>Optimization & Development Skills</h3>
   
-  <table width="800px">
-    <tr>
-      <td width="200px"><b>Algorithm Design</b></td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=400&color=4285F4" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Memory Management</b></td>
-      <td>
-        <img src="https://progress-bar.dev/98/?width=400&color=FF5722" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Performance Optimization</b></td>
-      <td>
-        <img src="https://progress-bar.dev/96/?width=400&color=FFCA28" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Clean Code Architecture</b></td>
-      <td>
-        <img src="https://progress-bar.dev/92/?width=400&color=34A853" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Test-Driven Development</b></td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=400&color=7B68EE" width="400"/>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/Algorithm_Design-95%25-4285F4?style=for-the-badge&logo="/>
+    <img src="https://img.shields.io/badge/Memory_Management-98%25-FF5722?style=for-the-badge&logo="/>
+    <img src="https://img.shields.io/badge/Performance_Optimization-96%25-FFCA28?style=for-the-badge&logo="/>
+    <img src="https://img.shields.io/badge/Clean_Code_Architecture-92%25-34A853?style=for-the-badge&logo="/>
+    <img src="https://img.shields.io/badge/Test--Driven_Development-90%25-7B68EE?style=for-the-badge&logo="/>
+  </p>
   
   <!-- Additional technologies section -->
   <h3>Additional Technologies</h3>
@@ -236,26 +211,12 @@ I approach optimization as both a science and an art:
 ## Current Focus
 
 <div align="center">
-  <table width="800px" align="center">
-    <tr>
-      <td align="center" width="25%">
-        <b>Algorithm Efficiency</b>
-        <br><small>Optimizing critical operations for time and space complexity</small>
-      </td>
-      <td align="center" width="25%">
-        <b>Memory Optimization</b>
-        <br><small>Minimizing memory usage with efficient allocation strategies</small>
-      </td>
-      <td align="center" width="25%">
-        <b>Testing Methodology</b>
-        <br><small>Building comprehensive test frameworks for verification</small>
-      </td>
-      <td align="center" width="25%">
-        <b>Code Readability</b>
-        <br><small>Maintaining clarity while implementing optimizations</small>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/🔍_Algorithm_Efficiency-Optimizing_critical_operations-4285F4?style=flat-square&labelColor=231F20"/>
+    <img src="https://img.shields.io/badge/💾_Memory_Optimization-Minimizing_resource_usage-FF5722?style=flat-square&labelColor=231F20"/>
+    <img src="https://img.shields.io/badge/🧪_Testing_Methodology-Building_verification_frameworks-FFCA28?style=flat-square&labelColor=231F20"/>
+    <img src="https://img.shields.io/badge/📝_Code_Readability-Maintaining_clarity_in_optimizations-34A853?style=flat-square&labelColor=231F20"/>
+  </p>
 </div>
 
 <div align="center">
@@ -292,4 +253,4 @@ I approach optimization as both a science and an art:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-<p align="right"><i>Last updated: 2025-03-27 15:03:56</i></p>
+<p align="right"><i>Last updated: 2025-03-27 15:10:50</i></p>
