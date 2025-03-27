@@ -158,8 +158,8 @@ I approach software optimization methodically:
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Univers42/ft_print_42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=ft_print_42&theme=react&hide_border=true" />
+  <a href="https://github.com/Univers42/ft_printf_42">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=ft_printf_42&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/Univers42/GetNextLine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=GetNextLine&theme=react&hide_border=true" />
