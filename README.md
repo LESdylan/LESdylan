@@ -1,44 +1,80 @@
-## Hi there 👋
-🎯 **Focused on:** Full-Stack Development 🚀  
-💡 **Learning:** AI & Machine Learning 🤖  
-🎨 **Hobbies:** Drawing, Photography 📸  
-![Your Banner](https://your-image-url.com)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7D61D&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+GitHub!;I+love+coding!)](https://git.io/typing-svg)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=tokyonight)
-![GitHub Contribution Snake](https://github.com/LESdylan/LESdylan/blob/output/github-contribution-grid-snake.svg)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LESdylan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile views](https://komarev.com/ghpvc/?username=LESdylan&color=blue)
-[![GitHub Follow](https://img.shields.io/github/followers/LESdylan?label=Follow%20Me&style=social)](https://github.com/your-username)
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
-![GitHub Streak](https://streak-stats.demolab.com/?user=LESdylan&theme=highcontrast)
-![3D Contribution Graph](https://github.com/LESdylan/LESdylan/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=LESdylan)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding!;Follow+me+for+cool+projects!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LESdylan/LESdylan/main/assets/header-image.png" alt="Dylan's GitHub Banner" width="100%"/>
+</div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Dylan+%F0%9F%91%8B;Full-Stack+Developer;42+School+Student;Linux+Enthusiast" alt="Typing SVG" />
+</h1>
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **42 School Projects**
-- 🌱 I’m learning **Linux, C, Algorithms**
-- 💬 Ask me about **Shell Scripting, C, Git**
-- 📫 How to reach me: [Your Email](mailto:your-email@gmail.com)
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-orange?style=for-the-badge&logo=firefox-browser" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
+<!-- 3D contribution graph -->
+<div align="center">
+  <a href="https://github.com/LESdylan"><img src="https://github-profile-3d-contrib.vercel.app/api/profile?username=LESdylan&theme=github" width="100%"/></a>
+</div>
 
-🚀 **Check out my website:** [your-portfolio.com](https://your-portfolio.com)
+## 💫 About Me
 
-<!--
-**LESdylan/LESdylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const dylan = {
+  currentFocus: ["Full-Stack Development", "AI & Machine Learning"],
+  currentProjects: ["42 School Projects"],
+  learning: ["Linux", "C", "Algorithms"],
+  askMeAbout: ["Shell Scripting", "C", "Git"],
+  hobbies: ["Drawing", "Photography"],
+  funFact: "I write code like I draw - with precision and creativity!"
+};
+```
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LESdylan&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode" alt="skills logos" />
+  <!-- Add or modify skills based on your actual repositories -->
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LESdylan&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LESdylan&theme=nord&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LESdylan&theme=tokyo-night" width="100%"/>
+</div>
+
+## 💼 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/LESdylan/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LESdylan&repo=project1&theme=tokyonight" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/LESdylan/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LESdylan&repo=project2&theme=tokyonight" alt="Project 2"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LESdylan/LESdylan/main/assets/footer.gif" width="100%" height="150px"/>
+</div>
