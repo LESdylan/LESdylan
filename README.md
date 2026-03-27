@@ -153,40 +153,38 @@ PostgreSQL + Redis   ██████████░░░░░░░░░�
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6" height="150" alt="Top Languages" />
 </div>
-
 ---
 
 ## Featured repos
 
 <div align="center">
   <a href="https://github.com/Univers42/transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=transcendence&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=transcendence&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Transcendence" />
   </a>
   &nbsp;
   <a href="https://github.com/Univers42/Examen42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=Examen42&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=Examen42&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Examen42" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Univers42/philosopher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=philosopher&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=philosopher&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Philosophers" />
   </a>
   &nbsp;
   <a href="https://github.com/Univers42/minirt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=minirt&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=minirt&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="miniRT" />
   </a>
 </div>
-
 ---
 
 <div align="center">
