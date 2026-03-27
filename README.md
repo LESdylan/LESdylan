@@ -1,256 +1,204 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=180&section=header&text=Dylan%20Lesieur&fontSize=42&fontAlignY=40&desc=System%20Optimization%20Specialist&descSize=22&descAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=200&section=header&text=Dylan%20Lesieur&fontSize=52&fontColor=e0f7ff&fontAlignY=42&desc=Systems%20%7C%20Low-Level%20%7C%2042%20School&descSize=18&descAlignY=65&descColor=7ec8e3&animation=fadeIn" width="100%"/>
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=600&lines=Low-Level+Performance+Expert;Memory+%26+Algorithm+Optimization;Systems+Programming+Specialist;42+School+Developer" alt="Typing SVG" />
-</h3>
+<br/>
 
-<!-- Social badges section -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="mailto:dylan.lesieur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=LESdylan&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&random=false&width=560&lines=Rewriting+malloc+for+fun+%26+performance;If+it+leaks%2C+it+ships+without+me;Valgrind+green+or+it+doesn%27t+exist;42+School+%E2%80%94+no+teachers%2C+no+excuses" alt="Typing SVG"/>
 </div>
 
-<!-- Simple divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<br/>
 
-<!-- Snake animation - more reliable source -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00b4d8"/>
+  </a>
+  &nbsp;
+  <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=notion&logoColor=00b4d8"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dylan.lesieur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00b4d8"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=LESdylan&style=flat-square&color=00b4d8&label=profile+views"/>
+</div>
+
+<br/>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="800">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
-## About Me
+---
 
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OTBjYzlkMWYxOTBhZGQyODUxNjE1ZGJlNTYyYmZkMjVlZjg0NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```c
-typedef struct s_profile {
-    char *name;
-    char *location;
-    char **specialties;
-    char **current_learning;
-    char *philosophy;
-} t_profile;
-
-t_profile *create_profile(void) {
-    t_profile *profile = malloc(sizeof(t_profile));
-    
-    profile->name = "Dylan Lesieur";
-    profile->location = "42 School";
-    profile->specialties = (char *[]){
-        "Memory-Optimized Algorithms",
-        "Low-level System Programming",
-        "Performance Benchmarking",
-        "Resource Constraint Solutions",
-        NULL
-    };
-    profile->current_learning = (char *[]){
-        "Advanced Algorithm Analysis",
-        "Kernel-level Optimizations",
-        "Assembly Programming",
-        "Compiler Optimization",
-        NULL
-    };
-    profile->philosophy = "Perfection is achieved not when there is nothing more to add, "
-                         "but when there is nothing left to take away.";
-    
-    return profile;
-}
-```
-
-I specialize in **low-level optimization** and **efficient systems programming**, crafting elegant solutions within constrained environments. My education at 42 School has refined my approach to resource-conscious development and algorithmic efficiency.
-
-> "Performance isn't an accident, it's a relentless pursuit of understanding what actually matters."
-
-By meticulously examining code at the byte and cycle level, I transform functional solutions into optimal implementations that maintain both readability and maintainability while significantly improving performance metrics.
-
-## Technical Expertise
-
-<div align="center">
-  <!-- Core programming section -->
-  <h3>Core Languages & Tools</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white"/>
-  </p>
-  
-  <!-- Specialized skills section with reliable badges instead of progress bars -->
-  <h3>Optimization & Development Skills</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Algorithm_Design-95%25-4285F4?style=for-the-badge&logo="/>
-    <img src="https://img.shields.io/badge/Memory_Management-98%25-FF5722?style=for-the-badge&logo="/>
-    <img src="https://img.shields.io/badge/Performance_Optimization-96%25-FFCA28?style=for-the-badge&logo="/>
-    <img src="https://img.shields.io/badge/Clean_Code_Architecture-92%25-34A853?style=for-the-badge&logo="/>
-    <img src="https://img.shields.io/badge/Test--Driven_Development-90%25-7B68EE?style=for-the-badge&logo="/>
-  </p>
-  
-  <!-- Additional technologies section -->
-  <h3>Additional Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Valgrind-19047B?style=for-the-badge&logo=V&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
-  </p>
-</div>
-
-<!-- Simple divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-## Optimization Methodology
+## `whoami`
 
 ```c
 /*
- * Performance optimization framework
- * A structured approach to transform functional code into optimal code
- */
+** dylan.lesieur — 42 School
+** Focus: low-level C, systems programming, memory management
+*/
 
-typedef enum e_optimization_stage {
-    ANALYSIS,
-    PROFILING,
-    OPTIMIZATION,
-    TESTING,
-    VERIFICATION
-} t_stage;
+typedef struct s_dev {
+    char    *name;
+    char    *school;
+    char    *focus;
+    char    *currently;
+    char    *philosophy;
+}   t_dev;
 
-typedef struct s_optimization_process {
-    char *code_base;
-    double initial_performance;
-    t_bottleneck *identified_bottlenecks;
-    char *optimization_strategy;
-    double performance_improvement;
-    bool maintains_correctness;
-} t_optimization_process;
+int main(void)
+{
+    t_dev me = {
+        .name       = "Dylan Lesieur",
+        .school     = "42 School",
+        .focus      = "Systems programming / Memory optimization",
+        .currently  = "ft_transcendence — full-stack capstone (NestJS + React)",
+        .philosophy = "If it passes Valgrind, you understood it."
+    };
 
-t_optimization_process optimize_codebase(char *code) {
-    t_optimization_process process;
-    process.code_base = code;
-    
-    // Establish measurable baseline
-    process.initial_performance = measure_performance(code);
-    
-    // Identify actual bottlenecks, not assumptions
-    process.identified_bottlenecks = profile_code(code);
-    
-    // Apply targeted optimizations with verification
-    process.optimization_strategy = select_best_approach(process.identified_bottlenecks);
-    char *optimized_code = apply_optimizations(code, process.optimization_strategy);
-    
-    // Verify correctness and measure improvement
-    process.maintains_correctness = run_comprehensive_tests(optimized_code);
-    double new_performance = measure_performance(optimized_code);
-    process.performance_improvement = calculate_improvement(
-        process.initial_performance, new_performance
-    );
-    
-    // Document optimizations for future reference
-    document_optimization_process(&process);
-    
-    return process;
+    return (0);
 }
 ```
 
-### My Optimization Philosophy
+I specialize in writing things from scratch: allocators, shells, renderers, sorting algorithms. The 42 model means no lectures, no teachers — you either understand the project or you fail the evaluation. That constraint shapes how I code.
 
-> "Premature optimization is the root of all evil; yet we should not pass up our opportunities in that critical 3%" — Donald Knuth
+---
 
-I approach optimization as both a science and an art:
+## Skills
 
-1. **Precision in Analysis** — Optimization begins with measurement, not intuition
-2. **Strategic Targeting** — Focus on critical paths identified through profiling
-3. **Algorithmic Efficiency** — Choose superior algorithms before micro-optimizing
-4. **Resource Consciousness** — Consider memory, CPU time, and I/O holistically
-5. **Maintainable Code** — Optimization never justifies incomprehensible code
-6. **Comprehensive Testing** — Every optimization must be validated extensively
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-## GitHub Metrics
+**Systems & Low-Level**
+```
+C                    ████████████████████  core
+C++                  ███████████████░░░░░  modules 00→09
+Shell / Bash         ██████████████░░░░░░  scripting + sysadmin
+Make                 ████████████████░░░░  build systems
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Tools & Ecosystem**
+```
+Git                  ████████████████████  daily
+Docker               ████████████████░░░░  Inception + transcendence
+GDB / Valgrind       ███████████████░░░░░  debugging workflow
+Linux (Debian/LFS)   ████████████████░░░░  from scratch
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Algorithms & Theory**
+```
+Memory management    ████████████████████  ft_malloc
+Sorting algorithms   ███████████████░░░░░  push_swap
+Concurrency          ██████████████░░░░░░  philosopher
+Rendering / Graphics ████████████░░░░░░░░  fdf, minirt
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Web & Beyond**
+```
+TypeScript           █████████████░░░░░░░  transcendence
+NestJS               ████████████░░░░░░░░  backend API
+React / Vite         ████████████░░░░░░░░  frontend
+PostgreSQL + Redis   ██████████░░░░░░░░░░  data layer
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LESdylan&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-  </p>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**transcendence**](https://github.com/Univers42/transcendence) | Full-stack capstone — real-time web app, 5-person team | TypeScript · NestJS · React · Docker |
+| [**ft_malloc**](https://github.com/Univers42/ft_malloc) | `malloc`, `free`, `realloc` from scratch using `mmap` | C |
+| [**minirt**](https://github.com/Univers42/minirt) | Ray tracing engine — light, shadows, intersections | C |
+| [**mini_shell**](https://github.com/Univers42/mini_shell) | Shell with pipes, redirections, built-ins | C |
+| [**philosopher**](https://github.com/Univers42/philosopher) | Dining philosophers — threads, mutexes, no deadlocks | C |
+| [**Inception**](https://github.com/Univers42/Inception) | NGINX + WordPress + MariaDB in Docker, from scratch | Docker · Shell |
+| [**ft_linux**](https://github.com/Univers42/ft_linux) | Linux built from source following LFS | Shell |
+| [**Examen42**](https://github.com/Univers42/Examen42) | 42 exam rank 02–04 solutions | C |
+| [**mini-baas**](https://github.com/Univers42/mini-baas) | A mini Backend-as-a-Service, built outside curriculum | Make |
+| [**catch_error**](https://github.com/Univers42/catch_error) | Lightweight C error-handling framework, no overhead | C |
+
 </div>
 
-## Featured Projects
+---
+
+## Stats
 
 <div align="center">
-  <a href="https://github.com/Univers42/ft_printf_42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=ft_printf_42&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6" width="40%"/>
+</div>
+
+---
+
+## Featured repos
+
+<div align="center">
+  <a href="https://github.com/Univers42/transcendence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=transcendence&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
   </a>
-  <a href="https://github.com/Univers42/GetNextLine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=GetNextLine&theme=github_dark&hide_border=true&border_radius=10&show_owner=true" width="49%"/>
+  &nbsp;
+  <a href="https://github.com/Univers42/Examen42">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=Examen42&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
   </a>
 </div>
 
 <div align="center">
-  <p><i>A reimplementation of printf with optimized memory usage</i> ⟼ <i>A highly efficient line reading function</i></p>
-</div>
-
-## Current Focus
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/🔍_Algorithm_Efficiency-Optimizing_critical_operations-4285F4?style=flat-square&labelColor=231F20"/>
-    <img src="https://img.shields.io/badge/💾_Memory_Optimization-Minimizing_resource_usage-FF5722?style=flat-square&labelColor=231F20"/>
-    <img src="https://img.shields.io/badge/🧪_Testing_Methodology-Building_verification_frameworks-FFCA28?style=flat-square&labelColor=231F20"/>
-    <img src="https://img.shields.io/badge/📝_Code_Readability-Maintaining_clarity_in_optimizations-34A853?style=flat-square&labelColor=231F20"/>
-  </p>
-</div>
-
-<div align="center">
-  <blockquote>
-    <p><i>"In the optimization arena, the engineer's foremost responsibility is to know what <b>not</b> to optimize. Only after establishing what truly matters should optimization efforts begin."</i></p>
-  </blockquote>
-</div>
-
-## Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/Univers42/philosopher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=philosopher&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
   </a>
-  <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4">
-    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:dylan.lesieur@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="https://github.com/Univers42/minirt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=minirt&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true"/>
   </a>
 </div>
 
-<div align="center">
-  <p>
-    <br><br>
-    <strong>Created with ❤️ by dyl-syzygy</strong>
-    <br>
-    42 School Project • 2025
-    <br><br>
-  </p>
-</div>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=100&section=footer&animation=twinkling" width="100%"/>
+  <sub>
+    <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/">LinkedIn</a> ·
+    <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4">Portfolio</a> ·
+    <a href="mailto:dylan.lesieur@gmail.com">dylan.lesieur@gmail.com</a>
+  </sub>
 </div>
 
-<p align="right"><i>Last updated: 2025-03-27 15:10:50</i></p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
