@@ -149,18 +149,21 @@ PostgreSQL + Redis   ██████████░░░░░░░░░�
 </div>
 
 ---
-
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3" height="150" alt="GitHub Streak" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62&v=2)](https://github.com/LESdylan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3&v=2)](https://github.com/LESdylan)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6" height="150" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6&v=2)](https://github.com/LESdylan)
+
 </div>
 
 ## Featured repos
