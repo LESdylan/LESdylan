@@ -163,8 +163,6 @@ PostgreSQL + Redis   ██████████░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
----
-
 ## Featured repos
 
 <div align="center">
@@ -186,8 +184,6 @@ PostgreSQL + Redis   ██████████░░░░░░░░░�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=minirt&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="miniRT" />
   </a>
 </div>
-
----
 
 <div align="center">
   <sub>
