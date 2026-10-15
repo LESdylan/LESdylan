@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 ```c
 typedef struct s_dev
@@ -51,7 +51,12 @@ static const t_dev g_me = {
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="45%" valign="middle" align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" alt="Developer building things"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 I build things **from scratch** to understand how they really work: memory allocators, a POSIX-style shell, a ray tracer, a Linux system compiled from source.
 
@@ -163,11 +168,7 @@ I build things **from scratch** to understand how they really work: memory alloc
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LESdylan&bg_color=0d1117&color=7ec8e3&line=00b4d8&point=e0f7ff&area=true&area_color=0a3d62&hide_border=true&radius=8&custom_title=Contribution%20activity"/>
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
