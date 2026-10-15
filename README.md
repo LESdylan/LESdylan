@@ -15,7 +15,9 @@
   <a href="mailto:dylan.lesieur@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8"/></a>
   <a href="https://github.com/Univers42"><img src="https://img.shields.io/badge/Univers42-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8"/></a>
   <br/>
-  <img src="https://img.shields.io/github/followers/LESdylan?style=flat-square&logo=github&logoColor=00b4d8&label=followers&labelColor=0d1117&color=0a3d62"/>
+  <a href="https://github.com/LESdylan?tab=followers"><img src="https://img.shields.io/github/followers/LESdylan?style=flat-square&logo=github&logoColor=00b4d8&label=followers&labelColor=0d1117&color=0a3d62"/></a>
+  <a href="https://github.com/LESdylan?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/LESdylan?style=flat-square&logo=github&logoColor=00b4d8&label=stars&labelColor=0d1117&color=0a3d62"/></a>
+  <a href="https://github.com/Univers42"><img src="https://img.shields.io/github/stars/Univers42?style=flat-square&logo=github&logoColor=00b4d8&label=Univers42%20stars&labelColor=0d1117&color=0a3d62"/></a>
   <img src="https://komarev.com/ghpvc/?username=LESdylan&style=flat-square&color=0a3d62&label=profile+views"/>
   <img src="https://img.shields.io/badge/open%20to-internships%20%26%20junior%20roles-0a3d62?style=flat-square&labelColor=0d1117"/>
 </div>
